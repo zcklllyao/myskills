@@ -1,0 +1,7 @@
+interface:
+  display_name: "论文下载与汇报"
+  short_description: "检索下载论文并生成经校验的中文 Markdown 汇报"
+  default_prompt: "Use $build-paper-reports to download the requested papers, read the PDFs, and create detailed Chinese Markdown reports."
+
+policy:
+  allow_implicit_invocation: true
