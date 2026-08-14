@@ -1,0 +1,4 @@
+interface:
+  display_name: "Foreign Company Due Diligence"
+  short_description: "中文外贸情报背调、客户分层与严谨 HTML/PDF 报告"
+  default_prompt: "Use $foreign-company-due-diligence with any company name, email, or contact to produce a source-grounded Chinese ABCD customer rating, procurement profile, anti-fraud checks, outreach plan, and formal minimalist HTML/PDF report in the current working directory. Do not fabricate facts; omit empty optional sections, renumber later sections sequentially, and format English outreach templates as formal email cards."
